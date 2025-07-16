@@ -1,27 +1,27 @@
-<h1 align="center"> Hi 👋, I'm Baliram Rathod</h1>
-🚀 Frontend Developer in progress | Python Learner  
-🌱 I’m currently learning: HTML | CSS | JS | Python  
-🎯 Goal: Become a Full Stack Developer  
-📬 Reach me at: baliram@example.com  
+<h1 align="center">Hi 👋, I'm Baliram Rathod</h1>
 
-## 🛠️ Tech Stack:
-- HTML | CSS | JavaScript | Python  
-- VS Code | Git | GitHub  
-- Designing UI Projects with love ❤️
+<h3 align="center">Aspiring Developer | Python & Java Learner</h3>
 
+<p align="center">
+🌱 I'm currently learning <strong>Python, Java, and Web Development</strong><br>
+🤝 I'm looking to collaborate on <strong>cool open source & AI projects</strong><br>
+💡 I'm improving in <strong>Python, AI, and automation tools</strong><br>
+📬 Reach me at: <a href="mailto:baliramXYZ@gmail.com">baliramXYZ@gmail.com</a>
+</p>
 
+---
 
-<!--
-**baliram072x/baliram072x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ⏳ My Coding Stats
 
-Here are some ideas to get you started:
+<p align="center">
+  ⌛ wakatime: <strong>38 hrs 32 mins</strong>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧰 Tech Stack
+
+- 💻 Python | Java | JavaScript | HTML | CSS  
+- 🔧 Git | GitHub | VS Code  
+- 🤖 AI Tools | Voice Automation  
+- 📱 Android Apps (Java base) | UI Development
