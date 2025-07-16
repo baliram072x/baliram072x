@@ -2,22 +2,22 @@
 
 <h3 align="left">Aspiring Developer | Python & Java Learner</h3>
 
-<p align="center">
-🌱 I'm currently learning <strong>Python, Java, and Web Development</strong><br>
-🤝 I'm looking to collaborate on <strong>cool open source & AI projects</strong><br>
-💡 I'm improving in <strong>Python, AI, and automation tools</strong><br>
-📬 Reach me at: <a href="bliramrathod0008@gmail.com">baliramrathod0008@gmail.com</a>
-</p>
-
----
+<ul>
+  <li>🌱 I'm currently learning <strong>Python, Java, and Web Development</li>
+  <li>🤝 I'm looking to collaborate on <strong>cool open source & AI projects</strong></li>
+  <li>💡 I'm improving in <strong>Python, AI, and automation tools</strong></li>
+  <li>💡 I'm improving in <strong>Python, AI, and automation tools</strong></li>
+  <li>📬 Reach me at: <a href="mailto:baliramrathod0008@gmail.com">baliramrathod0008@gmail.com</a></li>
+</ul>
 
 ## ⏳ My Coding Stats
 
 
 
-## 🧰 Tech Stack
-
-- 💻 Python | Java | JavaScript | HTML | CSS  
-- 🔧 Git | GitHub | VS Code  
-- 🤖 AI Tools | Voice Automation  
-- 📱 Android Apps (Java base) | UI Development
+## 🧰 Tech Stack  
+<ul>                                      >
+<li>- 💻 Python | Java | JavaScript | HTML | CSS  </li>
+<li> 🔧 Git | GitHub | VS Code  </li>
+<li>- 🤖 AI Tools | Voice Automation  </li>
+<li>- 📱 Android Apps (Java base) | UI Development</li>
+</ul>
