@@ -1,4 +1,16 @@
-## Hi there 👋
+# Hi 👋, I'm Baliram Rathod
+
+🚀 Frontend Developer in progress | Python Learner  
+🌱 I’m currently learning: HTML | CSS | JS | Python  
+🎯 Goal: Become a Full Stack Developer  
+📬 Reach me at: baliram@example.com  
+
+## 🛠️ Tech Stack:
+- HTML | CSS | JavaScript | Python  
+- VS Code | Git | GitHub  
+- Designing UI Projects with love ❤️
+
+
 
 <!--
 **baliram072x/baliram072x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
