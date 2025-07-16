@@ -12,7 +12,8 @@
 
 ## ⏳ My Coding Stats
 
-
+<!-- wakatime status -->
+![wakatime status] (https://github-readme-stats.vercel.app/api/wakatime?username=baliram072x
 
 ## 🧰 Tech Stack  
 <ul>                                      >
