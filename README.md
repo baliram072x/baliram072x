@@ -1,5 +1,4 @@
-# Hi 👋, I'm Baliram Rathod
-
+<h1 align="center"> Hi 👋, I'm Baliram Rathod</h1>
 🚀 Frontend Developer in progress | Python Learner  
 🌱 I’m currently learning: HTML | CSS | JS | Python  
 🎯 Goal: Become a Full Stack Developer  
