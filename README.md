@@ -11,9 +11,8 @@
 </ul>
 
 ## ⏳ My Coding Stats
+[![wakatime](https://wakatime.com/badge/@YOURUSERNAME/project-name.svg)](https://wakatime.com/baliram072x)
 
-<!-- wakatime status -->
-![wakatime status] (https://github-readme-stats.vercel.app/api/wakatime?username=baliram072x
 
 ## 🧰 Tech Stack  
 <ul>                                      >
