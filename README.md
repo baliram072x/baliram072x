@@ -11,7 +11,8 @@
 </ul>
 
 ## ⏳ My Coding Stats
-https://wakatime.com/badge/user/baliram072x.svg
+[![wakatime](https://wakatime.com/badge/user/f514e630-5af0-4174-aad3-de9d9651da82.svg)](https://wakatime.com/@baliram072x)
+
 
 ## 🧰 Tech Stack  
 <ul>                                      >
