@@ -13,7 +13,12 @@
 ## ⏳️ My coding Stats
 <a href="https://wakatime.com/@baliram072x>"><img src="https://wakatime.com/badge/user/f514e630-5af0-4174-aad3-de9d9651da82.svg" alt="Total time coded since jul 10 2025" /></a>
 
-
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=baliram072x&show_icons=true&theme=radical" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=baliram072x&theme=radical" />
+</p>
 
 ## 🧰 Tech Stack  
 <ul>                                      >
