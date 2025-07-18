@@ -10,8 +10,9 @@
   <li>📬 Reach me at: <a href="mailto:baliramrathod0008@gmail.com">baliramrathod0008@gmail.com</a></li>
 </ul>
 
-## ⏳ My Coding Stats
-[![wakatime](https://wakatime.com/badge/user/f514e630-5af0-4174-aad3-de9d9651da82.svg)](https://wakatime.com/@baliram072x)
+## ⏳️ My coding Stats
+<a href="https://wakatime.com/@baliram072x>"><img src="https://wakatime.com/badge/user/f514e630-5af0-4174-aad3-de9d9651da82.svg" alt="Total time coded since jul 10 2025" /></a>
+
 
 
 ## 🧰 Tech Stack  
