@@ -27,3 +27,21 @@
 <li>- 🤖 AI Tools | Voice Automation  </li>
 <li>- 📱 Android Apps (Java base) | UI Development</li>
 </ul>
+
+
+### 🌐 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/shivmundhe" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:shivmundhe16@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://twitter.com/" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</p>
+
+---
+
+### 📈 Visitor Count
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shivmundhe7&label=Profile%20Views&color=0e75b6&style=flat" alt="profile-views" />
+</p>
+
+---
+⭐️ From [shivmundhe7](https://github.com/shivmundhe7)
