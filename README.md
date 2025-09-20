@@ -27,7 +27,7 @@
 <li>- 🤖 AI Tools | Voice Automation  </li>
 <li>- 📱 Android Apps (Java base) | UI Development</li>
 </ul>
-baliram Rathod 
+ 
 
 
 
