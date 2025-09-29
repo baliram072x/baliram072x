@@ -21,7 +21,8 @@
 </p>
 
 ## 🧰 Tech Stack  
-<ul>                                      >
+<ul>    
+ <li> full stack Java Developer <li>
 <li>- 💻 Python | Java | JavaScript | HTML | CSS  </li>
 <li> 🔧 Git | GitHub | VS Code  </li>
 <li>- 🤖 AI Tools | Voice Automation  </li>
