@@ -25,15 +25,15 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivmundhe7&show_icons=true&theme=radical" alt="github-stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=baliram072x&show_icons=true&theme=radical" alt="github-stats" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivmundhe7&theme=radical" alt="streak-stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=baliram072x&theme=radical" alt="streak-stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivmundhe7&layout=compact&theme=radical" alt="top-langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baliram072x&layout=compact&theme=radical" alt="top-langs" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shivmundhe7&theme=radical&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=baliram072x&theme=radical&column=7" />
 </p>
 
 ---
@@ -61,9 +61,9 @@
 
 ### 📈 Visitor Count
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shivmundhe7&label=Profile%20Views&color=0e75b6&style=flat" alt="profile-views" />
+  <img src="https://komarev.com/ghpvc/?username=baliram072x&label=Profile%20Views&color=0e75b6&style=flat" alt="profile-views" />
 </p>
 
 ---
 
-⭐️ From [shivmundhe7](https://github.com/shivmundhe7)
+⭐️ From [Baliram072X](https://github.com/baliram072x)
