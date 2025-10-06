@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shiv Mundhe</h1>
+<h1 align="center">Hi 👋, I'm Baliram Rathod</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=4994&pause=1000&color=5D4EF7&width=435&lines=Aspiring+Java+Full+Stack+Developer)](https://git.io/typing-svg)
 ---
@@ -7,7 +7,7 @@
 - 🌱 Currently learning **Python, Java, and Web Development**
 - 🤝 Open to collaborate on **Open Source, AI & Automation Projects**
 - 🧠 Improving in **AI, Python, and Voice Assistants**
-- 📫 Reach me at: **shivmundhe16@gmail.com**
+- 📫 Reach me at: **baliramrathod0008@gmail.com**
 - ⚡ Fun fact: I love building **projects that solve real-world problems**
 
 ---
