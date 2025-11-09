@@ -4,7 +4,7 @@
 ---
 
 ### 🌟 About Me
-- 🌱 Currently learning **Python, Java, and Web Development**
+- 🌱 Currently learning **Python, Java, and Web Development
 - 🤝 Open to collaborate on **Open Source, AI & Automation Projects**
 - 🧠 Improving in **AI, Python, and Voice Assistants**
 - 📫 Reach me at: **baliramrathod0008@gmail.com**
