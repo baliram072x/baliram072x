@@ -25,14 +25,12 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=baliram072x&show_icons=true&theme=radical" alt="github-stats" />
-  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=baliram072x&theme=radical" alt="streak-stats" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baliram072x&layout=compact&theme=radical" alt="top-langs" />
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Baliram's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=baliram072x&theme=radical&column=7" />
