@@ -34,8 +34,7 @@
 
 ### 📈 GitHub Insights  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Baliram072X&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="160" />
-  <img src="https://streak-stats.demolab.com?user=Baliram072X&theme=tokyonight&hide_border=true&border_radius=10" height="160" />
+  [![Baliram's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 <p align="center">
